@@ -1,5 +1,5 @@
 Crearea unei Infrastructuri în Azure cu Terraform
-Unul dintre obiectivele principale ale stagiului a fost realizarea unei infrastructuri în Azure, utilizând Terraform pentru aprovizionarea și gestionarea resurselor necesare. Activitățile specifice au inclus:
+Unul dintre obiectivele principale ale stagiului de practica in cadrul firmei IBM a fost realizarea unei infrastructuri în Azure, utilizând Terraform pentru aprovizionarea și gestionarea resurselor necesare. Activitățile specifice au inclus:
 
 1.	Definirea Resurselor de Infrastructură:
 o	Am început prin crearea unui fișier de configurare Terraform, în care am definit toate resursele necesare. Acestea au inclus:
